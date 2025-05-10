@@ -1,0 +1,32 @@
+[
+    {
+        "id": "W1",
+        "name": "Main Warehouse",
+        "location": "New York",
+        "capacity": 10000
+    },
+    {
+        "id": "W2",
+        "name": "West Coast Hub",
+        "location": "Los Angeles",
+        "capacity": 8000
+    },
+    {
+        "id": "W3",
+        "name": "European Distribution",
+        "location": "Amsterdam",
+        "capacity": 7500
+    },
+    {
+        "id": "W4",
+        "name": "Asia Pacific Center",
+        "location": "Singapore",
+        "capacity": 9000
+    },
+    {
+        "id": "W5",
+        "name": "Southern Hub",
+        "location": "Miami",
+        "capacity": 6000
+    }
+]

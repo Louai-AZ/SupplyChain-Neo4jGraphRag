@@ -1,0 +1,32 @@
+[
+    {
+        "id": "S1",
+        "name": "Tech Supplier Inc",
+        "location": "USA",
+        "specialization": "Electronics"
+    },
+    {
+        "id": "S2",
+        "name": "Global Electronics",
+        "location": "China",
+        "specialization": "Components"
+    },
+    {
+        "id": "S3",
+        "name": "Audio Solutions Ltd",
+        "location": "Germany",
+        "specialization": "Audio Equipment"
+    },
+    {
+        "id": "S4",
+        "name": "Wearable Tech Co",
+        "location": "South Korea",
+        "specialization": "Wearables"
+    },
+    {
+        "id": "S5",
+        "name": "Smart Devices Corp",
+        "location": "Japan",
+        "specialization": "Smart Devices"
+    }
+]

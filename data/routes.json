@@ -1,0 +1,14 @@
+[
+    {
+        "from": "W1",
+        "to": "W2",
+        "distance": 2800,
+        "duration": 48
+    },
+    {
+        "from": "W2",
+        "to": "W1",
+        "distance": 2800,
+        "duration": 48
+    }
+]

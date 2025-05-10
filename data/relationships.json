@@ -1,0 +1,52 @@
+[
+    {
+        "product_id": "P1",
+        "supplier_id": "S1",
+        "warehouse_id": "W1"
+    },
+    {
+        "product_id": "P2",
+        "supplier_id": "S2",
+        "warehouse_id": "W2"
+    },
+    {
+        "product_id": "P3",
+        "supplier_id": "S3",
+        "warehouse_id": "W3"
+    },
+    {
+        "product_id": "P4",
+        "supplier_id": "S4",
+        "warehouse_id": "W4"
+    },
+    {
+        "product_id": "P5",
+        "supplier_id": "S5",
+        "warehouse_id": "W5"
+    },
+    {
+        "product_id": "P1",
+        "supplier_id": "S2",
+        "warehouse_id": "W5"
+    },
+    {
+        "product_id": "P2",
+        "supplier_id": "S1",
+        "warehouse_id": "W3"
+    },
+    {
+        "product_id": "P3",
+        "supplier_id": "S5",
+        "warehouse_id": "W1"
+    },
+    {
+        "product_id": "P4",
+        "supplier_id": "S3",
+        "warehouse_id": "W2"
+    },
+    {
+        "product_id": "P5",
+        "supplier_id": "S4",
+        "warehouse_id": "W4"
+    }
+]
