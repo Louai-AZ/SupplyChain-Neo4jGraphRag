@@ -1,0 +1,37 @@
+[
+    {
+        "id": "P1",
+        "name": "Laptop",
+        "description": "High-performance laptop with 16GB RAM and 512GB SSD, perfect for business and creative work",
+        "price": 999.99,
+        "category": "Electronics"
+    },
+    {
+        "id": "P2",
+        "name": "Smartphone",
+        "description": "Latest smartphone with 5G capability, 128GB storage, and advanced camera system",
+        "price": 699.99,
+        "category": "Electronics"
+    },
+    {
+        "id": "P3",
+        "name": "Wireless Headphones",
+        "description": "Premium noise-cancelling wireless headphones with 30-hour battery life",
+        "price": 249.99,
+        "category": "Audio"
+    },
+    {
+        "id": "P4",
+        "name": "Smart Watch",
+        "description": "Fitness tracker and smartwatch with heart rate monitoring and GPS",
+        "price": 199.99,
+        "category": "Wearables"
+    },
+    {
+        "id": "P5",
+        "name": "Tablet",
+        "description": "10-inch tablet with 256GB storage, perfect for entertainment and productivity",
+        "price": 449.99,
+        "category": "Electronics"
+    }
+]
